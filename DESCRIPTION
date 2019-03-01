@@ -6,5 +6,7 @@ Author: Neal Grantham
 Maintainer: Neal Grantham <neal@nsgrantham.com>
 Description: Download transit data with the NextBus API.
 License: MIT + file LICENSE
+Imports: jsonlite
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.0
